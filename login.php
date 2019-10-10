@@ -34,7 +34,7 @@
         <header>
             <div class="container-fluid">
                 <h1>
-                    Foodzy
+                    FOODZY
                 </h1>
             </div>
         </header>
